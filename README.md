@@ -49,27 +49,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 💼 Experience & Leadership
-
-### **Web Developer Intern — CodSoft**  
-📅 Nov 2024 – Dec 2024  
-- Built and deployed responsive websites using HTML, CSS, JS  
-- Improved UI/UX and accessibility across projects  
-
-### **Team Projects**
-- ⚡ **Innotech 2024 Finalist** – AR-based e-commerce prototype  
-- 🧘 **Smart India Hackathon (SIH) 2025** – Built *AyurSutra*, an AI-powered Panchkarma therapy management system with ML-based health insights, chatbot scheduling & yoga pose detection  
-
----
-
-## 🏆 Achievements
-- 🥈 **2nd Rank** in C Language Coding Competition  
-- ⭐ Top 5 among 200+ participants in coding events  
-- 💻 Solved **349+ DSA problems** across LeetCode, GFG, HackerRank  
-- 📈 Competitive ratings: **LeetCode (1543 peak)**  
-
----
-
 ## 🌟 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rohanjha17/">
