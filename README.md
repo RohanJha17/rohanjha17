@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 - 🎓 B.Tech CSE (AI & ML) student at **KIET Group of Institutions**  
-- 💻 Passionate **Frontend Developer** experienced in **React.js, TypeScript, Tailwind CSS, Vite**  
+- 💻 Passionate **Full-Stack Developer** experienced in **React.js, TypeScript, Tailwind CSS, Vite**  
 - 📊 Built scalable, responsive, and high-performance web applications  
 - 🧠 Strong fundamentals in **DSA (349+ problems solved)** across LeetCode, GFG & HackerRank  
 - 🔧 Experience with **Node.js, Express.js, MongoDB**, and API integration  
@@ -48,38 +48,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **FinSmart-AI**  
-📌 *Personal Finance Management Dashboard*  
-🔗 https://github.com/RohanJha17/finSmart-AI  
-**Tech:** React, TypeScript, Vite, Tailwind  
-- Built fully responsive dashboard with interactive data visualizations  
-- Added CSV import, PDF reports, AI-based insights  
-- Integrated REST APIs for real-time data flow  
-
----
-
-### 🔹 **Spotify Clone**  
-📌 *Music Streaming UI*  
-🔗 https://github.com/RohanJha17/SpotifyClone  
-**Tech:** HTML, CSS, JavaScript  
-- Designed responsive Spotify-inspired UI  
-- Dynamic playlist functionality & optimized loading  
-
----
-
-### 🔹 **Netflix Clone**  
-📌 *Streaming Platform UI*  
-🔗 https://github.com/RohanJha17/NetFlix_Clone  
-**Tech:** HTML, CSS  
-- Built adaptive grid layout and hover animations  
-- Fully mobile-responsive interface  
-
----
 
 ## 💼 Experience & Leadership
 
