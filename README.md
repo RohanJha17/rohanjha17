@@ -12,7 +12,7 @@
 - 💻 **MERN Stack Developer** with hands-on experience in **React.js, Redux, Next.js, TypeScript, Tailwind CSS, Vite**  
 - 🚀 Passionate about building **responsive, scalable, and user-centric web applications** following modern industry practices  
 - 📊 Developed real-world projects like **FinSmart-AI**, **Spotify Clone**, and **E-Learning Platform UI**  
-- 🧠 Strong problem-solving background with **349+ DSA problems solved** across LeetCode, GFG & HackerRank  
+- 🧠 Strong problem-solving background with **450+ DSA problems solved** across LeetCode, GFG & HackerRank  
 - 🏆 **2nd Rank** in C Programming Competition & **Top 5** in multiple inter-college coding contests  
 - 🤝 Experience working in **team-based projects, hackathons**, and AR/AI-driven solutions  
 - 📫 Reach me at: **jharohan139@gmail.com**
